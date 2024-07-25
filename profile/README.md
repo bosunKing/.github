@@ -26,8 +26,8 @@ HI5 프로젝트입니다.<br>
 
 ### 🖥️ 웹
 <p>
-  <img src="../images/web_home" alt="웹 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/web_order" alt="웹 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
+  <img src="../images/web_home.png" alt="웹 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
+  <img src="../images/web_order.png" alt="웹 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
   <img src="../images/web_stock.png" alt="재고 선택" style="display:inline-block; width:30%;"/>
 </p>
 
