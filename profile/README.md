@@ -61,4 +61,4 @@ pip install -r requirements.txt
 <div>
 
 # <br>이도현
-<img src="../images/ldh.jpg" alt="이도현" style="display:inline-block; width:30%;/>
+<img src="../images/ldh.jpg" alt="이도현" style="display:inline-block; width:30%;"/>
