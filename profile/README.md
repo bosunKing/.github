@@ -19,9 +19,9 @@ HI5 프로젝트입니다.<br>
 
 ### 💻 키오스크
 <p>
-  ![Untitled design](../images/kiosk_1.png)
-  ![Untitled design](../images/kiosk_2.png)
-  ![Untitled design](../images/kiosk_3.png)
+![Untitled design](../images/kiosk_1.png)
+![Untitled design](../images/kiosk_2.png)
+![Untitled design](../images/kiosk_3.png)
 </p>
 ### 🖥️ 웹
 
