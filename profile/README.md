@@ -19,10 +19,11 @@ HI5 프로젝트입니다.<br>
 
 ### 💻 키오스크
 <p>
-![Untitled design](../images/kiosk_1.png)
-![Untitled design](../images/kiosk_2.png)
-![Untitled design](../images/kiosk_3.png)
+  <img src="../images/kiosk_1.png" alt="키오스크 홈" />
+  <img src="../images/kiosk_2.png" alt="키오스크 주문" />
+  <img src="../images/kiosk_3.png" alt="키오스크 선택" />
 </p>
+
 ### 🖥️ 웹
 
 ### 📱 모바일
