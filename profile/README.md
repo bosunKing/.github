@@ -18,9 +18,11 @@ HI5 프로젝트입니다.<br>
 인간과 기계의 하이파이브를 위해 hi5는 오늘도 달려갑니다.👋 <br>
 
 ### 💻 키오스크
-![Untitled design](../images/kiosk_1.png)
-![Untitled design](../images/kiosk_2.png)
-![Untitled design](../images/kiosk_3.png)
+<p>
+  ![Untitled design](../images/kiosk_1.png)
+  ![Untitled design](../images/kiosk_2.png)
+  ![Untitled design](../images/kiosk_3.png)
+</p>
 ### 🖥️ 웹
 
 ### 📱 모바일
