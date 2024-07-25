@@ -59,3 +59,6 @@ HI5 프로젝트입니다.<br>
 # <br>🔨패키지 설치
 pip install -r requirements.txt
 <div>
+
+# <br>이도현
+<img src="../images/ldh.jpg" alt="이도현"/>
