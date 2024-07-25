@@ -33,9 +33,9 @@ HI5 프로젝트입니다.<br>
 
 ### 📱 모바일
 <p>
-  <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:30%;"/>
+  <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:5%; margin-right:10px;"/>
+  <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:5%; margin-right:10px;"/>
+  <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:5%;"/>
 </p>
 
 # 🕐개발 기간
