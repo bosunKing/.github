@@ -1,13 +1,13 @@
 <div align="center">
   
-# 🍦ROS2와 AI를 활용한 자율주행 로봇개발자 프로젝트 1기 with XYZ<br>
+# <br>🍦ROS2와 AI를 활용한 자율주행 로봇개발자 프로젝트 1기 with XYZ<br>
 인공지능(AI) 서비스 로봇 스타트업 XYZ와 함께하는 프로젝트입니다.<br>
 라운지랩 무인 아이스크림 로봇 아리스(ARIS)의 개성있는 모션과 자동화된 프로세스로 사용자에게 즐거움을 선사합니다.<br>
 
 **아리스**<br>
 <https://youtu.be/QmEGj73KAvA>
 
-# 📃프로젝트 소개
+# <br>📃프로젝트 소개
 
 ![Untitled design](../images/character_1.png)<br>
 HI5 프로젝트입니다.<br>
@@ -17,34 +17,34 @@ HI5 프로젝트입니다.<br>
 
 인간과 기계의 하이파이브를 위해 hi5는 오늘도 달려갑니다.👋 <br>
 
-### 💻 키오스크
+### 💻키오스크
 <p>
   <img src="../images/kiosk_1.png" alt="키오스크 홈" style="display:inline-block; width:20%; margin-right:20px;"/>
   <img src="../images/kiosk_2.png" alt="키오스크 주문" style="display:inline-block; width:20%; margin-right:20px;"/>
   <img src="../images/kiosk_3.png" alt="키오스크 선택" style="display:inline-block; width:20%;"/>
 </p>
 
-### 🖥️ 웹
+### 🖥️웹
 <p>
   <img src="../images/web_home.png" alt="웹 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
   <img src="../images/web_order.png" alt="웹 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
   <img src="../images/web_stock.png" alt="재고 선택" style="display:inline-block; width:30%;"/>
 </p>
 
-### 📱 모바일
+### 📱모바일
 <p>
   <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:15%; margin-right:30px;"/>
   <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:15%; margin-right:30px;"/>
   <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:15%;"/>
 </p>
 
-# 🔍아키텍쳐
+# <br>🔍아키텍쳐
 <img src="../images/system_architecture.png" alt="시스템 아키텍쳐"/>
 
-# 🕐개발 기간
+# <br>🕐개발 기간
 2024.07.01 ~ 2024.07.26
 
-# 🙍팀원 소개
+# <br>🙍팀원 소개
 
 |이름|역할|업무|
 |---|---|---|
@@ -56,6 +56,6 @@ HI5 프로젝트입니다.<br>
 |장준호|DB, Webapp|업무|
 
 
-# 패키지 설치
+# <br>🔨패키지 설치
 pip install -r requirements.txt
 <div>
