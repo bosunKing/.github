@@ -19,9 +19,9 @@ HI5 프로젝트입니다.<br>
 
 ### 💻 키오스크
 <p>
-  <img src="../images/kiosk_1.png" alt="키오스크 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/kiosk_2.png" alt="키오스크 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/kiosk_3.png" alt="키오스크 선택" style="display:inline-block; width:30%;"/>
+  <img src="../images/kiosk_1.png" alt="키오스크 홈" style="display:inline-block; width:20%; margin-right:20px;"/>
+  <img src="../images/kiosk_2.png" alt="키오스크 주문" style="display:inline-block; width:20%; margin-right:20px;"/>
+  <img src="../images/kiosk_3.png" alt="키오스크 선택" style="display:inline-block; width:20%;"/>
 </p>
 
 ### 🖥️ 웹
