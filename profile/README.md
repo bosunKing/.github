@@ -26,16 +26,16 @@ HI5 프로젝트입니다.<br>
 
 ### 🖥️ 웹
 <p>
-  <img src="../images/kiosk_1.png" alt="키오스크 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/kiosk_2.png" alt="키오스크 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/kiosk_3.png" alt="키오스크 선택" style="display:inline-block; width:30%;"/>
+  <img src="../images/web_home" alt="웹 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
+  <img src="../images/web_order" alt="웹 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
+  <img src="../images/web_stock.png" alt="재고 선택" style="display:inline-block; width:30%;"/>
 </p>
 
 ### 📱 모바일
 <p>
-  <img src="../images/kiosk_1.png" alt="키오스크 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/kiosk_2.png" alt="키오스크 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
-  <img src="../images/kiosk_3.png" alt="키오스크 선택" style="display:inline-block; width:30%;"/>
+  <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:30%; margin-right:10px;"/>
+  <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:30%; margin-right:10px;"/>
+  <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:30%;"/>
 </p>
 
 # 🕐개발 기간
