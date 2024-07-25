@@ -9,7 +9,7 @@
 
 # 📃프로젝트 소개
 
-![Untitled design](../character_1.png)
+![Untitled design](../character_1.png)<br>
 HI5 프로젝트입니다.<br>
 기본적인 기능을 안전하고 확실하게 수행하는 아이스크림 기계 개발이 특징입니다.<br>
 튀르키예(돈두르마) 아이스크림 컨텐츠를 구현하였습니다.<br>
