@@ -38,6 +38,9 @@ HI5 프로젝트입니다.<br>
   <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:15%;"/>
 </p>
 
+# 🔍아키텍쳐
+<img src="../images/System Architecture-System Architecture.drawio.png" alt="재고 선택""/>
+
 # 🕐개발 기간
 2024.07.01 ~ 2024.07.26
 
