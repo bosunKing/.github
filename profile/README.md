@@ -33,8 +33,8 @@ HI5 프로젝트입니다.<br>
 
 ### 📱 모바일
 <p>
-  <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:15%; margin-right:10px;"/>
-  <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:15%; margin-right:10px;"/>
+  <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:15%; margin-right:30px;"/>
+  <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:15%; margin-right:30px;"/>
   <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:15%;"/>
 </p>
 
