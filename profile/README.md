@@ -39,7 +39,7 @@ HI5 프로젝트입니다.<br>
 </p>
 
 # 🔍아키텍쳐
-<img src="../images/System Architecture-System Architecture.drawio.png" alt="재고 선택""/>
+<img src="../images/system_architecture.png" alt="시스템 아키텍쳐"/>
 
 # 🕐개발 기간
 2024.07.01 ~ 2024.07.26
