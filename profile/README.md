@@ -13,7 +13,7 @@
   <br>
   <h3>엑스와이지 아리스(ARIS) 영상</h3>
     
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6-jCuQJ1Vt0)
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6-jCuQJ1Vt0/0.jpg)](https://www.youtube.com/watch?v=6-jCuQJ1Vt0)
   
   <br>
     
