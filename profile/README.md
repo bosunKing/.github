@@ -41,39 +41,39 @@
   인간과 로봇이 상호 작용하는 무인 아이스크림 매장의 로봇 서비스 및 시스템을 개발하였습니다.
   <br>
   <br>
-  ℹ️<b>서비스 소개</b> <a href="https://jangjh0201.notion.site/ROS2-AI-6e0de862f7164ba5b335b412cb71f36f?pvs=4"title="ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프"><b>링크</b></a><br>
-  <br>
-  <br>
+  <h2>서비스 소개</h2>
   
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>💻키오스크</h3>
+        <h3>키오스크</h3>
         <img src="../images/kiosk_1.png" alt="키오스크 홈" width="100%">
       </td>
       <td align="center" width="33%">
-        <h3>🖥️웹</h3>
+        <h3>웹</h3>
         <img src="../images/web_home.png" alt="웹 홈" width="100%">
       </td>
       <td align="center" width="33%">
-        <h3>📱모바일</h3>
+        <h3>모바일</h3>
         <img src="../images/mobile_sales.jpg" alt="모바일 매출" width="30%">
       </td>
     </tr>
   </table>
+
+  <h3>ℹ️<a href="https://jangjh0201.notion.site/ROS2-AI-6e0de862f7164ba5b335b412cb71f36f?pvs=4"title="ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프">상세 페이지</a></h3>
   
   <br>
-  <h2>📰아키텍쳐</h2>
+  <h2>아키텍쳐</h2>
   <img src="../images/hi5_architecture.png" alt="시스템 아키텍쳐" style="display:inline-block; width:65%;"/>
   <br>
   
   <br>
-  <h2>🕐개발 기간</h2>
+  <h2>개발 기간</h2>
   2024.07.01 ~ 2024.07.26
   <br>
   
   <br>
-  <h2>🙍팀원 소개</h2>
+  <h1>🙍팀원 소개</h1>
   <br>
 
   <table border="1" cellspacing="0" cellpadding="10">
