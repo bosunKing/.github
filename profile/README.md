@@ -11,8 +11,10 @@
   <br>
   <b>ARIS
   <br>
-  <a href="https://www.youtube.com/watch?v=6-jCuQJ1Vt0">엑스와이지 아리스(ARIS) 영상</a>
-  <video src="https://youtu.be/6-jCuQJ1Vt0" control></video>
+  <h3>엑스와이지 아리스(ARIS) 영상</h3>
+    
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6-jCuQJ1Vt0?si=v8rf56Ft3M2JHGOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
   <br>
     
   <br>
