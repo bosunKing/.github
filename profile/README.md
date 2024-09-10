@@ -1,11 +1,14 @@
 <div align="center">
   
   <br>
-  <h1>🍦ROS2와 AI를 활용한 자율주행 로봇개발자 프로젝트 1기 with XYZ</h1>
+  <h1>🍦ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프</h1>
   <br>
-  인공지능(AI) 서비스 로봇 기업 <b>엑스와이지</b>와 함께하는 프로젝트입니다.
+  인공지능(AI) 서비스 로봇 기업 <b>엑스와이지(XYZ)</b>와 함께하는 프로젝트입니다.
   <br>
-  라운지랩 무인 아이스크림 로봇 아리스(ARIS)의 개성있는 모션과 자동화된 프로세스를 활용하였습니다.
+  <br>
+  로봇공학, 인공지능, 컴퓨터 비전 등 다양한 기술을 통합한
+  <br>
+  인간과 로봇이 상호 작용하는 무인 아이스크림 매장의 서비스 로봇 및 시스템입니다.
   <br>
   <br>
   <b>📢하단의 이미지 클릭 시 해당 페이지로 이동합니다.📢</b>
@@ -44,22 +47,22 @@
   <h3>🖥️웹</h3>
   <br>
   <p>
-    <img src="../images/web_home.png" alt="웹 홈" style="display:inline-block; width:30%; margin-right:10px;"/>
-    <img src="../images/web_order.png" alt="웹 주문" style="display:inline-block; width:30%; margin-right:10px;"/>
-    <img src="../images/web_stock.png" alt="재고 선택" style="display:inline-block; width:30%;"/>
+    <img src="../images/web_home.png" alt="웹 홈" style="display:inline-block; width:20%; margin-right:10px;"/>
+    <img src="../images/web_order.png" alt="웹 주문" style="display:inline-block; width:20%; margin-right:10px;"/>
+    <img src="../images/web_stock.png" alt="재고 선택" style="display:inline-block; width:20%;"/>
   </p>
   <br>
   <h3>📱모바일</h3>
   <br>
   <p>
-    <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:15%; margin-right:30px;"/>
-    <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:15%; margin-right:30px;"/>
-    <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:15%;"/>
+    <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:10%; margin-right:30px;"/>
+    <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:10%; margin-right:30px;"/>
+    <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:10%;"/>
   </p>
   
   <br>
   <h1>🔍아키텍쳐</h1>
-  <img src="../images/system_architecture.png" alt="시스템 아키텍쳐"/>
+  <img src="../images/hi5_architecture.png" alt="시스템 아키텍쳐"/>
   
   <br>
   <h1>🕐개발 기간</h1>
