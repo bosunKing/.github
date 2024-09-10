@@ -175,7 +175,7 @@
                   <li>STORAGY Depth카메라/ LiDAR를 활용한 자세 보정 구현</li>
               </ul>
           </td>
-          <td width="150px"><strong>장준호</strong></td>
+          <td width="100px"><strong>장준호</strong></td>
           <td>
               <ul>
                   <li>DB 설계 및 백엔드 서버 구현</li>
