@@ -10,7 +10,7 @@
   <br>
   <b>📢하단의 이미지 클릭 시 해당 페이지로 이동합니다.📢</b>
   
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <div style="text-align: center;">
       <h3>엑스와이지 아리스(ARIS) 영상</h3>
       <a href="https://www.youtube.com/watch?v=6-jCuQJ1Vt0">
@@ -24,6 +24,7 @@
       </a>
     </div>
   </div>
+
   
   <h1>📃프로젝트 소개</h1>
   <br>
