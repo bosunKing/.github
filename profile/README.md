@@ -13,7 +13,7 @@
   <br>
   <h3>엑스와이지 아리스(ARIS) 영상</h3>
     
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6-jCuQJ1Vt0?si=v8rf56Ft3M2JHGOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6-jCuQJ1Vt0)
   
   <br>
     
