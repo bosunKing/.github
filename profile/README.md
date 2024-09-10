@@ -8,19 +8,14 @@
   라운지랩 무인 아이스크림 로봇 아리스(ARIS)의 개성있는 모션과 자동화된 프로세스를 활용하였습니다.
   <br>
 
-  <br>
-  <b>ARIS
-  <br>
   <h3>엑스와이지 아리스(ARIS) 영상</h3>
-    
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6-jCuQJ1Vt0/0.jpg)](https://www.youtube.com/watch?v=6-jCuQJ1Vt0)
   
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6-jCuQJ1Vt0/0.jpg)](https://www.youtube.com/watch?v=6-jCuQJ1Vt0)
   <br>
     
-  <br>
-  <b>STORAGY
-  <br>
-  <a href="https://www.youtube.com/watch?v=-kP9PBeYSiY">엑스와이지 스토리지(STORAGY) 영상</a>
+  <h3>엑스와이지 스토리지(STORAGY) 영상</h3>
+    
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-kP9PBeYSiY/0.jpg)](https://www.youtube.com/watch?v=-kP9PBeYSiY)
   
   <br>
   <h1>📃프로젝트 소개</h1>
