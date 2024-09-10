@@ -6,13 +6,13 @@
   인공지능(AI) 서비스 로봇 기업 <b>엑스와이지(XYZ)</b>와 함께하는 프로젝트입니다.
   <br>
   <br>
-  <b>📢하단의 이미지 클릭 시 해당 페이지로 이동합니다.📢</b>
+  <b>📢하단의 이미지 클릭 시 소개 영상 페이지로 이동합니다.📢</b>
   <br>
   <br>
   <table>
     <tr>
       <td align="center">
-        <b>엑스와이지 아리스(ARIS) 영상</b>
+        <b>엑스와이지 아리스(ARIS)</b>
         <br>
         <a href="https://www.youtube.com/watch?v=6-jCuQJ1Vt0">
           <br>
@@ -20,7 +20,7 @@
         </a>
       </td>
       <td align="center">
-        <b>엑스와이지 스토리지(STORAGY) 영상</b>
+        <b>엑스와이지 스토리지(STORAGY)</b>
         <br>
         <a href="https://www.youtube.com/watch?v=-kP9PBeYSiY">
           <br>
