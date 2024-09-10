@@ -3,15 +3,22 @@
   <br>
   <h1>🍦ROS2와 AI를 활용한 자율주행 로봇개발자 프로젝트 1기 with XYZ</h1>
   <br>
-  인공지능(AI) 서비스 로봇 스타트업 XYZ와 함께하는 프로젝트입니다.
+  인공지능(AI) 서비스 로봇 기업 <b>엑스와이지</b>와 함께하는 프로젝트입니다.
   <br>
   라운지랩 무인 아이스크림 로봇 아리스(ARIS)의 개성있는 모션과 자동화된 프로세스를 활용하였습니다.
   <br>
 
   <br>
-  <b>아리스
+  <b>ARIS
   <br>
-  <https://youtu.be/QmEGj73KAvA>
+  <a href="https://www.youtube.com/watch?v=6-jCuQJ1Vt0">엑스와이지 아리스(ARIS) 영상</a>
+  <video src="https://youtu.be/6-jCuQJ1Vt0" control></video>
+  <br>
+    
+  <br>
+  <b>STORAGY
+  <br>
+  <a href="https://www.youtube.com/watch?v=-kP9PBeYSiY">엑스와이지 스토리지(STORAGY) 영상</a>
   
   <br>
   <h1>📃프로젝트 소개</h1>
