@@ -11,58 +11,60 @@
   인간과 로봇이 상호 작용하는 무인 아이스크림 매장의 서비스 로봇 및 시스템입니다.
   <br>
   <br>
+  <br>
   <b>📢하단의 이미지 클릭 시 해당 페이지로 이동합니다.📢</b>
-  
-  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <h3>엑스와이지 아리스(ARIS) 영상</h3>
-      <a href="https://www.youtube.com/watch?v=6-jCuQJ1Vt0">
-        <img src="https://img.youtube.com/vi/6-jCuQJ1Vt0/0.jpg" style="width: 300px;" alt="ARIS 영상">
-      </a>
-    </div>
-    <div style="text-align: center;">
-      <h3>엑스와이지 스토리지(STORAGY) 영상</h3>
-      <a href="https://www.youtube.com/watch?v=-kP9PBeYSiY">
-        <img src="https://img.youtube.com/vi/-kP9PBeYSiY/0.jpg" style="width: 300px;" alt="STORAGY 영상">
-      </a>
-    </div>
-  </div>
-
+  <br>
+  <br>
+  <table>
+    <tr>
+      <td align="center">
+        <b>엑스와이지 아리스(ARIS) 영상</b>
+        <br>
+        <a href="https://www.youtube.com/watch?v=6-jCuQJ1Vt0">
+          <br>
+          <img src="https://img.youtube.com/vi/6-jCuQJ1Vt0/0.jpg" width="300px" alt="ARIS 영상">
+        </a>
+      </td>
+      <td align="center">
+        <b>엑스와이지 스토리지(STORAGY) 영상</b>
+        <br>
+        <a href="https://www.youtube.com/watch?v=-kP9PBeYSiY">
+          <br>
+          <img src="https://img.youtube.com/vi/-kP9PBeYSiY/0.jpg" width="300px" alt="STORAGY 영상">
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
   
   <h1>📃프로젝트 소개</h1>
   <br>
   <img src="../images/character_1.png" alt="키오스크 홈" style="display:inline-block; width:20%; margin-right:20px;"/><br>
-  기본적인 기능을 안전하고 확실하게 수행하는 무인 아이스크립 서비스입니다.<br>
-  
+  <b>로봇팔과 비전센서를 활용한 HRI</b><br>
+  <b>돈두르마 퍼포먼스 무인 아이스크림 매장</b><br>
+  <br>
   또한 튀르키예 아이스크림(돈두르마) 서비스로 사용자에게 즐거움을 선사합니다.
   <br>
-  <h3>💻키오스크</h3>
-  <br>
-  <p>
-    <img src="../images/kiosk_1.png" alt="키오스크 홈" style="display:inline-block; width:20%; margin-right:20px;"/>
-    <img src="../images/kiosk_2.png" alt="키오스크 주문" style="display:inline-block; width:20%; margin-right:20px;"/>
-    <img src="../images/kiosk_3.png" alt="키오스크 선택" style="display:inline-block; width:20%;"/>
-  </p>
-  <br>
-  <h3>🖥️웹</h3>
-  <br>
-  <p>
-    <img src="../images/web_home.png" alt="웹 홈" style="display:inline-block; width:20%; margin-right:10px;"/>
-    <img src="../images/web_order.png" alt="웹 주문" style="display:inline-block; width:20%; margin-right:10px;"/>
-    <img src="../images/web_stock.png" alt="재고 선택" style="display:inline-block; width:20%;"/>
-  </p>
-  <br>
-  <h3>📱모바일</h3>
-  <br>
-  <p>
-    <img src="../images/mobile_sales.jpg" alt="모바일 매출" style="display:inline-block; width:10%; margin-right:30px;"/>
-    <img src="../images/mobile_history.jpg" alt="모바일 내역" style="display:inline-block; width:10%; margin-right:30px;"/>
-    <img src="../images/mobile_log.jpg" alt="모바일 로그" style="display:inline-block; width:10%;"/>
-  </p>
+<table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>💻키오스크</h3>
+        <img src="../images/kiosk_1.png" alt="키오스크 홈" width="100%">
+      </td>
+      <td align="center" width="33%">
+        <h3>🖥️웹</h3>
+        <img src="../images/web_home.png" alt="웹 홈" width="100%">
+      </td>
+      <td align="center" width="33%">
+        <h3>📱모바일</h3>
+        <img src="../images/mobile_sales.jpg" alt="모바일 매출" width="30%">
+      </td>
+    </tr>
+  </table>
   
   <br>
   <h1>🔍아키텍쳐</h1>
-  <img src="../images/hi5_architecture.png" alt="시스템 아키텍쳐"/>
+  <img src="../images/hi5_architecture.png" alt="시스템 아키텍쳐" style="display:inline-block; width:65%;"/>
   
   <br>
   <h1>🕐개발 기간</h1>
