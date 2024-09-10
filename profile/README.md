@@ -116,13 +116,13 @@
   
   <table border="1" cellspacing="0" cellpadding="10">
       <tr>
-          <th width="150px">이름</th>
+          <th width="100px">이름</th>
           <th>업무</th>
-          <th width="150px">이름</th>
+          <th width="100px">이름</th>
           <th>업무</th>
       </tr>
       <tr>
-          <td width="150px"><strong>서원호<br>(팀장)</strong></td>
+          <td width="100px"><strong>서원호<br>(팀장)</strong></td>
           <td>
               <ul>
                   <li>무인 아이스크림 매장 프로세스 설계 및 제작</li>
@@ -132,7 +132,7 @@
                   <li>통합 시스템 ROS2로 구현</li>
               </ul>
           </td>
-          <td width="150px"><strong>이도현</strong></td>
+          <td width="100px"><strong>이도현</strong></td>
           <td>
               <ul>
                   <li>손 / 실링 / Aruco Marker 등 감지 구현</li>
@@ -144,7 +144,7 @@
           </td>
       </tr>
       <tr>
-          <td width="150px"><strong>전수익</strong></td>
+          <td width="100px"><strong>전수익</strong></td>
           <td>
               <ul>
                   <li>손 / 실링 / Aruco Marker 등 감지 구현</li>
@@ -153,7 +153,7 @@
                   <li>Vision 감지 파트 구현</li>
               </ul>
           </td>
-          <td width="150px"><strong>전민건</strong></td>
+          <td width="100px"><strong>전민건</strong></td>
           <td>
               <ul>
                   <li>ARIS 쓰레기 인지 모델 구현</li>
@@ -165,7 +165,7 @@
           </td>
       </tr>
       <tr>
-          <td width="150px"><strong>김보선</strong></td>
+          <td width="100px"><strong>김보선</strong></td>
           <td>
               <ul>
                   <li>KIOSK GUI 제작</li>
