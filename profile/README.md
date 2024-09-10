@@ -41,8 +41,15 @@
   인간과 로봇이 상호 작용하는 무인 아이스크림 매장의 로봇 서비스 및 시스템을 개발하였습니다.
   <br>
   <br>
+  <h1>⚙️서비스</h1>
+  <br>
+  <li>
+    <b>소개 페이지</b> <a href="https://jangjh0201.notion.site/ROS2-AI-6e0de862f7164ba5b335b412cb71f36f?pvs=4"title="ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프"><b>링크</b></a><br>
+  </li>
+  <br>
+  <br>
   
-<table>
+  <table>
     <tr>
       <td align="center" width="33%">
         <h3>💻키오스크</h3>
@@ -60,12 +67,14 @@
   </table>
   
   <br>
-  <h1>🔍아키텍쳐</h1>
+  <h1>📰아키텍쳐</h1>
   <img src="../images/hi5_architecture.png" alt="시스템 아키텍쳐" style="display:inline-block; width:65%;"/>
+  <br>
   
   <br>
   <h1>🕐개발 기간</h1>
   2024.07.01 ~ 2024.07.26
+  <br>
   
   <br>
   <h1>🙍팀원 소개</h1>
