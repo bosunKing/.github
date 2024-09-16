@@ -42,6 +42,8 @@
   <br>
   <br>
   <h2>서비스 소개</h2>
+
+  <h3>ℹ️상세페이지 <a href="https://jangjh0201.notion.site/ROS2-AI-6e0de862f7164ba5b335b412cb71f36f?pvs=4"title="ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프">이동</a>ℹ️</h3>
   
   <table>
     <tr>
@@ -59,8 +61,6 @@
       </td>
     </tr>
   </table>
-
-  <h3>ℹ️<a href="https://jangjh0201.notion.site/ROS2-AI-6e0de862f7164ba5b335b412cb71f36f?pvs=4"title="ROS2와 AI를 활용한 자율주행 로봇개발자 부트캠프">상세 페이지</a></h3>
   
   <br>
   <h2>아키텍쳐</h2>
