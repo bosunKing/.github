@@ -168,7 +168,8 @@
           <td width="100px"><strong>김보선</strong></td>
           <td>
               <ul>
-                  <li>KIOSK GUI 제작</li>
+                  <li>전체 시스템 통합 및 ROS2로 패키지화</li>
+                  <li>KIOSK System 제작</li>
                   <li>통신 프로토콜 및 시스템 아키텍쳐 구성</li>
                   <li>ARIS 기능 ROS2로 패키지화</li>
                   <li>STORAGY Robot Controller 구현</li>
